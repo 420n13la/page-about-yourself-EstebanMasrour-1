@@ -10,6 +10,7 @@ h1 {
   color: red;
   text-align: center;
   font-family: 'Manjari', sans-serif;
+  border: 5px solid red;
 }
 
 h2 {
